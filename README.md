@@ -2,6 +2,10 @@
 Right, so i decided to settle on Vue as my framework of choice. I adapted well to it, did some digging and it fits all my needs. There's still some kinks to iron out, like commiting to Vue 3 or deciding to hold on and stick to Vue 2 for now until Vue 3 is more mature, but that's secondary.
 With my stack of choice finally evened out, i can start working again, after having to take a long break for health purposes.
 
+### What's ahead
+While i look for a permanent position, i'm gonna work on Scoutive, which is a platform to aid the scouting of young football players, mainly targeted at agents and clubs in countries where purchasing power is prohibitive when it comes to affording a scouting platform.
+
+
 <!--
 **jorgeguberte/jorgeguberte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
