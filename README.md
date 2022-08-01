@@ -1,22 +1,18 @@
-### Hi there 👋
-Right, so i decided to settle on Vue as my framework of choice. I adapted well to it, did some digging and it fits all my needs. There's still some kinks to iron out, like commiting to Vue 3 or deciding to hold on and stick to Vue 2 for now until Vue 3 is more mature, but that's secondary.
-With my stack of choice finally evened out, i can start working again, after having to take a long break for health purposes.
+# Intro
+<strong>H</strong>i! I'm Jorge! I'm a full-stack developer with 20 years of experience in the industry. I've worked mostly in Marketing and Advertising agencies, developing websites, backend and/or frontend.
+<br>
+I like to sip on water or juice or coffee, and listen to music while i code. In my spare time i like to study and make music.
+<br>
+If you want to get in touch, you can write me in English, Portuguese or Spanish and i'll be able to have a fluent conversation; i'm learning German as well.
 
-### What's ahead
-While i look for a permanent position, i'm gonna work on Scoutive, which is a platform to aid the scouting of young football players, mainly targeted at agents and clubs in countries where purchasing power is prohibitive when it comes to affording a scouting platform.
 
+## My Current Stack
+- Node
+- NestJS
+- Vue3
+- TailwindCSS
+- Storybook
 
-<!--
-**jorgeguberte/jorgeguberte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on:
+I'm working on a personal project named Scoutive, with a friend. Scoutive is an open-source platform that helps soccer scouts have a better, more streamlined experience and performance in their job. 
+Currently in private alpha.
