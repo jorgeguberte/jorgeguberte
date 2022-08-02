@@ -12,6 +12,7 @@ If you want to get in touch, you can write me in English, Portuguese or Spanish 
 - Vue3
 - TailwindCSS
 - Storybook
+- MongoDB w/ Prisma
 
 ## Currently working on:
 I'm working on a personal project named Scoutive, with a friend. Scoutive is an open-source platform that helps soccer scouts have a better, more streamlined experience and performance in their job. 
