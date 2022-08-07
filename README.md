@@ -15,5 +15,4 @@ If you want to get in touch, you can write me in English, Portuguese or Spanish 
 - MongoDB w/ Prisma
 
 ## Currently working on:
-I'm working on a personal project named Scoutive, with a friend. Scoutive is an open-source platform that helps soccer scouts have a better, more streamlined experience and performance in their job. 
-Currently in private alpha.
+I'm working on a personal project named Scoutive, with a friend. Scoutive is an open-source platform that helps soccer scouts have a better, more streamlined experience and performance in their job. It connects soccer scouts, agents and clubs, and make it easier to reach players who would otherwise be harder to reach.
