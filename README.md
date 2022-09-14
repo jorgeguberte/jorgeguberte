@@ -1,5 +1,5 @@
 # Intro
-<strong>H</strong>i! I'm Jorge! I'm a full-stack developer, and since 2005 I've worked mostly in Marketing and Advertising agencies, developing websites, backend and/or frontend.
+Hi! I'm Jorge! I'm a full-stack developer. I started coding in 2002 after graduating in "Data Processing" from technical high school, and since 2005 I've worked mostly in Marketing and Advertising agencies, developing websites, backend and/or frontend.
 <br>
 I like to sip on water or juice or coffee, and listen to music while i code. In my spare time i like to study and make music.
 <br>
