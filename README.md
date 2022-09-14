@@ -1,5 +1,5 @@
 # Intro
-<strong>H</strong>i! I'm Jorge! I'm a full-stack developer with 20 years of experience in the industry. I've worked mostly in Marketing and Advertising agencies, developing websites, backend and/or frontend.
+<strong>H</strong>i! I'm Jorge! I'm a full-stack developer, and since 2005 I've worked mostly in Marketing and Advertising agencies, developing websites, backend and/or frontend.
 <br>
 I like to sip on water or juice or coffee, and listen to music while i code. In my spare time i like to study and make music.
 <br>
