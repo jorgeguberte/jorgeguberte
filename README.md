@@ -1,18 +1,34 @@
 # Intro
-Hi! I'm Jorge! I'm a full-stack developer. I started coding in 2002 after graduating in "Data Processing" from technical high school, and since 2005 I've worked mostly in Marketing and Advertising agencies, developing websites, backend and/or frontend.
-<br>
-I like to sip on water or juice or coffee, and listen to music while i code. In my spare time i like to study and make music.
-<br>
-If you want to get in touch, you can write me in English, Portuguese or Spanish and i'll be able to have a fluent conversation; i'm learning German as well.
+Hi! I'm Jorge, a full-stack developer. After coming out of a hiatus in my career, i settled  on a tech stack that i feel makes sense in the current landscape.
+I speak English, Portuguese, and Spanish and I'm currently learning German. Feel free to reach out to me in any of these languages.
+In my spare time i enjoy listening to music, studying music theory and composing music.
 
 
-## My Current Stack
-- Node
+## Stack & Toolbox
+- NodeJS
 - NestJS
-- Vue3
-- TailwindCSS
+- Vue 3
+- Tailwind CSS
 - Storybook
-- MongoDB w/ Prisma
+- MongoDB
+- Prisma
+- Vite
+- Vitest / Jest
+- Docker
+- Kubernetes
 
-## Currently working on:
-I'm working on a personal project named Scoutive, with a friend. Scoutive is an open-source platform that helps soccer scouts have a better, more streamlined experience and performance in their job. It connects soccer scouts, agents and clubs, and make it easier to reach players who would otherwise be harder to reach.
+## Current Personal Projects
+I always aim to learn and improve my skills. To achieve that, i work on a few pet projects that allow me to develop new skills and gain knowledge. Here are some of them:
+
+
+### Tonie
+This is a web app that uses the Web MIDI API to allow users to input MIDI notes and receive aural and visual feedback. It integrates the tonal.js and tones.js libraries to recognize chords and produce sounds, respectively, based on the user input. With it, users can quickly explore chordal possibilites.
+
+### Maestro
+An app written with Vue.js, that consumes Spotify's Web API and allows users to get insights on their playlists.
+It fetches playlists and tracks from the API, performs mood and audio feature analysis on the tracks using a neural network, and then displays the results on the UI.
+
+### Scoutive
+Scoutive is a full-stack web application developed to streamline data collection for soccer scouts. It's developed using a stack consisting of NestJS, VueJS, Swagger/OpenAPI, MongoDB and Prisma.
+This project was a great opportunity for me to get familiar with Typescript, and gain experience with the stack mentioned above.
+It's a robust, well-structured and scalable app that showcases my ability to quickly adapt to a new, relatively complex stack.
