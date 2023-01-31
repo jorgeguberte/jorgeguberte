@@ -1,25 +1,24 @@
 # Intro
 Hi! I'm Jorge, a full-stack developer. After coming out of a hiatus in my career, i settled  on a tech stack that i feel makes sense in the current landscape.
-I speak English, Portuguese, and Spanish and I'm currently learning German. Feel free to reach out to me in any of these languages.
+To get acquainted with the stack, i'm building some prototypes, they're listed further down on the page. 
+
+I speak English, Portuguese, and Spanish and I'm currently learning German. 
 In my spare time i enjoy listening to music, studying music theory and composing music.
 
 
 ## Stack & Toolbox
-- NodeJS
-- NestJS
+- Node
+- Nest
 - Vue 3
-- Tailwind CSS
+- Tailwind
 - Storybook
 - MongoDB
 - Prisma
+- Redis
 - Vite
 - Vitest / Jest
 - Docker
 - Kubernetes
-
-## Current Personal Projects
-I always aim to learn and improve my skills. To achieve that, i work on a few pet projects that allow me to develop new skills and gain knowledge. Here are some of them:
-
 
 ### [Tonie](https://github.com/jorgeguberte/tonie)
 This is a web app that uses the Web MIDI API to allow users to input MIDI notes and receive aural and visual feedback. It integrates the tonal.js and tones.js libraries to recognize chords and produce sounds, respectively, based on the user input. With it, users can quickly explore chordal possibilites.
