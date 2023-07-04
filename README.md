@@ -1,8 +1,10 @@
 # Intro
 Hi! 
-My name is Jorge (as in George), i work as a Software Developer at Bosch Digital, creating solutions in data-driven domains.
+My name is Jorge, i'm a generalist software developer. 
+My last employment was at Bosch, where i worked developing solutions for Finance Master Data Management.
 
-## Interests
+
+## Fields of Interest
 An amalgamation of these:
 - AI
 - IoT
