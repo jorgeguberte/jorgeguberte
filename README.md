@@ -10,7 +10,13 @@ Capturing the essence of those shifts, developing groundbreaking concepts and hi
 
 I witnessed a LOT of those shifts: from computers that took forever to turn on, to the advent of the Internet (this was when i started learning programming, around 1996), weeping incessantly due to websites that were just a table (who thought that was a good idea??), then i got employed because of Flash (Action Script was the first language that i actually learned and loved); AJAX, Tableless... that's when things started to shake rapidly. Tools, platforms, languages, frameworks, bubbling up all the time... does any of that sound familiar? ;)
 
-
+# What i Bring
+- Concepts, ideas, solutions, products that will make any CEO scream Eureka! (i can prove)
+- Multidisciplinary Toolbelt
+- Technical Knowledge infused with Creativity
+- Inventinveness fused with Tedhnical Knowledge
+- Nearly two decades of experience, either studying or working
+  
 # Looking For
 - Seed investment
 - Incubator
