@@ -1,9 +1,8 @@
 # Intro
 Hi! 
-My name is Jorge, i'm a Software Developer entering the Machine Learning and Artificial Intelligence field, with an intense interest in Generative AI and its transformative power. 
-My last employement was at Bosch, where i worked for a brief period as a Senior Software Developer allocated to a Master Data Management/Finance project, working remoteloy in a distributed team.
+My name is Jorge, i'm a Full Stack Developer since 2006; I am currently adopting Machine Learning and Artificial Intelligence practices, exploring client-side inference and generation.
+My last employement was at Bosch, where i worked as a Senior Software Developer/ Analyst Developer developing solutions in Javascript for a Master Data Management/Finance project, working remotely in a distributed team.
 
-To formalize my education, i enrolled in College and i'm currently majoring in System Analysis and Development.
 While i look for a job, i'm focusing on studying Generative AI, Machine Learning, DevOps and MLOps, and also getting some Azure certifications.
 
 ## Fields of Interest
