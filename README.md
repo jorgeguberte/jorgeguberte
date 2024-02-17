@@ -1,3 +1,4 @@
 # Intro
 Hi! 
-I'm a Full Stack Engineer based in São Paulo, Brazil, working at [Fluento](https://github.com/FluentoAI), and on the side i'm pursuing a bachelor's degree in Architecture and Urbanism.
+I'm a Full Stack Engineer based in São Paulo, Brazil, specialized in Javascript and Python stacks; lately i've been focusing on evolving my DevOps and SRE toolset.
+I'm also pursuing a degree in Architecture and Urbanism.
