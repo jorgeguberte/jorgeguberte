@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+section {
+  padding: 20px;
+  margin-bottom: 10px;
+  background-color: #fff; /* Give sections a slightly different background */
+}
+
+a {
+  color: #007bff;
+  text-decoration: none; /* Remove underline by default */
+}
+
+a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
+
+/* Basic container to center content and limit width */
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden; /* Clear floats */
+}
+
+/* Style the hero section specifically */
+#hero {
+  background-color: #333; /* Darker background for hero */
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+#hero h1 {
+  color: #fff;
+}
