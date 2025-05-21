@@ -1,8 +1,7 @@
-## About Me
-Hiya! 
-I like to build rapid-prototypes, originally a backend-heavy full-stack guy, generalist, musician, bedroom producer, currently exploring sonic and visual frontiers with Generative AI.
+# Personal Website
 
-I'm training custom models to serve as effective creative partners, crafting songs together, reaching a symbiotic partnership; model grounding and fine-tuning are becoming strong suits for me. Eloquent enough to produce substantial results via prompting.
+This repository contains the source code for my personal website.
 
+I am a software developer with a passion for creating innovative AI products. This website showcases my skills, projects, and experiences in the field of Artificial Intelligence.
 
-Available for hire. JS|TypeScript|Python.
+Feel free to browse the code and get in touch!
