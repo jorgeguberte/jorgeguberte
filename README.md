@@ -1,5 +1,6 @@
 # Intro
 Hi there, I'm Jorge (Goubie, musically) 👋
+
 I'm a software developer with a strong full-stack background, now intensely focused on the Artificial Intelligence field. My current work centers on researching, designing, and prototyping intelligent systems that aim to foster deeper, more ethical, and more empowering Human-AI collaboration.
 
 ---
@@ -55,4 +56,4 @@ Beyond code, I'm driven by a deep curiosity about the future, a passion for crea
 
 I'm always open to discussing innovative ideas, potential collaborations, or just chatting about the future of AI, creativity, and ethical technology.
 
-* **LinkedIn:** `[https://linkedin.com/in/jorgeguberte/]`
+* **LinkedIn:** [https://linkedin.com/in/jorgeguberte/](https://linkedin.com/in/jorgeguberte/)
