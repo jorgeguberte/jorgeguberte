@@ -1,5 +1,5 @@
-# Hi there, I'm Jorge (Goubie, musically) 👋
-
+# Intro
+Hi there, I'm Jorge (Goubie, musically) 👋
 I'm a software developer with a strong full-stack background, now intensely focused on the Artificial Intelligence field. My current work centers on researching, designing, and prototyping intelligent systems that aim to foster deeper, more ethical, and more empowering Human-AI collaboration.
 
 ---
